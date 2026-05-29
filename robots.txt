@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://designboard.co.in/sitemap.xml
